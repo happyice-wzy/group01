@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//wj
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class QueryWrapperTests {
