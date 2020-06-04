@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be4e6933-9a21-4d71-b42d-25e47a54ef00" name="Default Changelist" comment="">
+    <list default="true" id="be4e6933-9a21-4d71-b42d-25e47a54ef00" name="Default Changelist" comment="homework up！！！again">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +80,7 @@
       <workItem from="1591171932553" duration="1636000" />
       <workItem from="1591261853727" duration="38000" />
       <workItem from="1591264111695" duration="254000" />
+      <workItem from="1591266023332" duration="131000" />
     </task>
     <task id="LOCAL-00001" summary="OK？？？？？？？">
       <created>1591171538115</created>
@@ -172,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591264321481</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="homework up！！！again">
+      <created>1591266078575</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591266078575</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,12 +195,14 @@
     <MESSAGE value="homework" />
     <MESSAGE value="homework up" />
     <MESSAGE value="homework up！！！" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework up！！！" />
+    <MESSAGE value="homework up！！！again" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework up！！！again" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="23" key="CommitChangelistDialog2" timestamp="1591264321295">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state x="240" y="23" key="CommitChangelistDialog2" timestamp="1591266118453">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
+    <state x="240" y="23" key="CommitChangelistDialog2/0.23.1440.800@0.23.1440.800" timestamp="1591266118453" />
     <state x="240" y="23" key="CommitChangelistDialog2/0.23.1440.805@0.23.1440.805" timestamp="1591264321295" />
     <state x="240" y="23" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1591172050265" />
     <state x="240" y="23" key="CommitChangelistDialog2/0.23.1440.824@0.23.1440.824" timestamp="1591172911826" />
